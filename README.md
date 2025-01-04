@@ -2,13 +2,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=atishaydeveloper&color=blue)
 
-
-## 👨‍💻 About Me
-
 <p align="center">
   <img src="https://github.com/atishaydeveloper/atishaydeveloper/blob/main/atishay_jain.png" width="200"/>
 </p>
 
+
+## 👨‍💻 About Me
 
 Hi, I’m Atishay Jain—a Data Science aspirant and Software Developer passionate about AI, Machine Learning, and Web Development. Based in Indore, India, I thrive on solving complex problems and creating innovative, data-driven solutions. My expertise spans SQL, Python, and web technologies, with projects like sentiment analysis, crop price prediction, and farmer-focused platforms under my belt.
 
