@@ -2,11 +2,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=atishaydeveloper&color=blue)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
-</p>
 
 ## 👨‍💻 About Me
+
+<p align="center">
+  <img src="https://github.com/atishaydeveloper/atishaydeveloper/blob/main/atishay_jain.png" width="200"/>
+</p>
+
+
 Hi, I’m Atishay Jain—a Data Science aspirant and Software Developer passionate about AI, Machine Learning, and Web Development. Based in Indore, India, I thrive on solving complex problems and creating innovative, data-driven solutions. My expertise spans SQL, Python, and web technologies, with projects like sentiment analysis, crop price prediction, and farmer-focused platforms under my belt.
 
 Beyond coding, I’m a chess enthusiast aiming for a 2000 Elo rating, a curious learner of geopolitics, and an avid fan of light novels and music. I’m also committed to improving my public speaking and productivity skills to make meaningful contributions.
@@ -57,6 +60,8 @@ Creating and integrating AI-driven solutions to optimize and elevate system perf
   - Word Cloud Visualization
   - Summarization
 
+Project Repo: (https://github.com/atishaydeveloper/Feedback-Fusion)
+
 <p align="center">
   <img src="https://github.com/atishaydeveloper/atishaydeveloper/blob/main/Screenshot%202024-12-21%20201311.png" width="400"/>
 </p>
@@ -66,10 +71,14 @@ Creating and integrating AI-driven solutions to optimize and elevate system perf
 - A Python-based voice assistant application for desktops, combining various technical tools and exploring new challenges.
 - **Key Highlight:** Ability to process user input as intents and entities using NLP (Natural Language Processing), ensuring accurate and meaningful responses.
 
+Project Repo: (https://github.com/atishaydeveloper/Project_Jarvis)
+
 ### Mental Health Support System
 - **Associated with:** Acropolis Institute of Technology and Research, Manglia Chouraha, Indore
 - Utilizes Natural Language Processing (NLP) to analyze user sentiment, offer personalized feedback, alert healthcare professionals, and connect individuals to relevant resources to support emotional well-being.
 - **Skills:** Machine Learning, Python (Programming Language), Natural Language Processing (NLP)
+
+Project Repo: (https://github.com/atishaydeveloper/Mental_health_support_system)
 
 ## 📈 GitHub Stats
 
