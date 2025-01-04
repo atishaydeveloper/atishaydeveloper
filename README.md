@@ -79,7 +79,7 @@ Creating and integrating AI-driven solutions to optimize and elevate system perf
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/atishay-jain07)
-[![Insta](https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/the_zealous_atishay/)
+[![Insta](https://img.shields.io/badge/Insta-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/the_zealous_atishay/)
 [![Personal Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](atishayjain07.netlify.app/ )
 
 <p align="center">
