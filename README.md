@@ -58,7 +58,7 @@ Creating and integrating AI-driven solutions to optimize and elevate system perf
   - Summarization
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlRmz9UeG8aD4Ig/giphy.gif" width="400"/>
+  <img src="https://github.com/atishaydeveloper/atishaydeveloper/blob/main/Screenshot%202024-12-21%20201311.png" width="400"/>
 </p>
 
 ### Jarvis: A Desktop Voice Assistant App
