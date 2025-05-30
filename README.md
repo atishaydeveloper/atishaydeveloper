@@ -57,7 +57,7 @@ I build intelligent, data-driven solutions to solve real-world problems—practi
 
 ### 🔥 Core Technologies
 
-<img src="https://skillicons.dev/icons?i=python,sql,js,react,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
 
 </div>
 
