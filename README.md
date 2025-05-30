@@ -20,7 +20,7 @@
 
 </div>
 
----
+
 
 ## 🌐 Connect & Collaborate
 
@@ -32,7 +32,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=atishaydeveloper&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
@@ -49,7 +49,7 @@
 
 I build intelligent, data-driven solutions to solve real-world problems—practical, innovative, and always forward-thinking.
 
----
+
 
 ## 🛠 Tech Arsenal
 
