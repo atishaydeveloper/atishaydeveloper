@@ -10,7 +10,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Innovate+•+Code+•+Impact&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 </div>
 
----
 
 <div align="center">
 
@@ -38,7 +37,7 @@
 <img src="https://komarev.com/ghpvc/?username=atishaydeveloper&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
 
----
+
 
 ## 🚀 About Me
 
@@ -66,7 +65,7 @@ I build intelligent, data-driven solutions to solve real-world problems—practi
 - **Agentic AI:** Langchain • Langgraph • CrewAI • n8n 
 - **Tools & Platforms:** Git • Docker • Jupyter • VS Code • Netlify  
 
----
+
 
 ## 📂 Featured Projects
 
@@ -106,7 +105,7 @@ An emotion-aware chatbot for mental well-being using NLP techniques.
 
 </div>
 
----
+
 
 ## 📊 GitHub Stats & Activity
 
@@ -123,7 +122,7 @@ An emotion-aware chatbot for mental well-being using NLP techniques.
 
 </div>
 
----
+
 
 ## 🌟 Beyond the Code
 
@@ -162,7 +161,7 @@ An emotion-aware chatbot for mental well-being using NLP techniques.
 
 </div>
 
----
+
 
 <div align="center">
 
