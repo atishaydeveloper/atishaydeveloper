@@ -2,7 +2,7 @@
 
 # 🌟 Welcome to My Digital Domain 🌟
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=ATISHAY+JAIN;👨‍💻+DATA+SCIENCE+%7C+SOFTWARE+DEV+🛠️" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=ATISHAY+JAIN;👨‍💻+DATA+SCIENCE+%7C+AGENTIC+AI+🛠️" alt="Typing Animation"/>
 
 </div>
 
